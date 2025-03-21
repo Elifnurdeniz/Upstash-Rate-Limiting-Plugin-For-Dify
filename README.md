@@ -47,9 +47,10 @@ This plugin can be used within a Dify **Chatflow / Workflow / Agent**  to contro
 The plugin outputs structured **JSON data**, including key fields that can be used to handle the request.
 The **success** or **failure** of a request can be verified using the `status` variable.
 You can add an `IF/ELSE` condition in the app:
-* If status contains "success", continue the request.
+* If the status contains "success", continue the request.
 * If status contains "error", take alternative actions (e.g., return a rate limit exceeded message).
-![image](./_assets/usage.png.png)
+
+![image](./_assets/usage.png)
 
 
 #### 📌 **Available Parameters**
@@ -73,6 +74,8 @@ A sliding window rate limit that allows 10 requests per minute globally:
 ```
 
 In console:
-<img src="./_assets/configuration.png" width=50% />
+<br/>
+
+<img src="./_assets/configuration.png" width=40% />
 
 
