@@ -79,3 +79,8 @@ In console:
 <img src="./_assets/configuration.png" width=40% />
 
 
+### Author
+Github: [Elifnurdeniz](https://github.com/Elifnurdeniz)
+Mail: elif.deniz@std.bogazici.edu.tr
+Repo: [Upstash Ratelimit Plugin](https://github.com/Elifnurdeniz/Upstash-Rate-Limiting-Plugin-For-Dify)
+
